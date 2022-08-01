@@ -10,3 +10,5 @@ Repo contains:
 - A CSS file
 
 - A JavaScript file
+
+Live demo [here!](https://kylelangille.github.io/counter/)
