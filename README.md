@@ -10,5 +10,3 @@ Repo contains:
 - A CSS file
 
 - A JavaScript file
-
-Live demo [here!](https://kyleisconfused.github.io/counter/)
